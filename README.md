@@ -5,7 +5,7 @@
 - 1 login to GitHub
 - 2 On home/dashboard page, either
   - 2.1 click the green buttom
-    ![]()
+    ![buttom](https://github.com/dianavile/git-VSC/blob/main/img/1Bottom.png)
   - 2.2 click the + icon
     ![]()
 - 3 This redirects you to "Create a new repository” screen.
