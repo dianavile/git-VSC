@@ -46,7 +46,6 @@ NOTE: When working with a team, you either
   ![new file added](https://github.com/dianavile/git-VSC/blob/main/img/7NewDummyFileAdded.png)
   
 ## 3 — Connect to your remote repository in VScode
-
 - 1 Obtain the URL of the remote repository.
 - click on the green button “Clone or download”
 - 2 Copy it to your clipboard.
@@ -63,8 +62,8 @@ NOTE: When working with a team, you either
   - Provide your credentials and click on the Login button.
   ![Login Github](https://github.com/dianavile/git-VSC/blob/main/img/11LoginGithub.png)
 - 9 Authenticated with GitHub from VScode
- ![Login Credentials]( https://github.com/dianavile/git-VSC/blob/main/img/12LoginCredentials.png)
 - 10 Click on the “Open” button: VScode opens the cloned repository (locally).In the Explorer pane the files are available now locally.
+ ![Login Credentials]( https://github.com/dianavile/git-VSC/blob/main/img/12LoginCredentials.png)
   ![Files in VSC code editor](https://github.com/dianavile/git-VSC/blob/main/img/13FilesInVSCEditor.png)
 - 11 Open the specified folder the repo has been cloned into.
   The code from the remote repository has been successfully cloned/downloaded locally.
