@@ -70,3 +70,6 @@ NOTE: When working with a team, you either
 - 11 Open the specified folder the repo has been cloned into.
   The code from the remote repository has been successfully cloned/downloaded locally.
   ![]()
+
+## Resource
+-[Create repository on Github](https://medium.com/@Zeroesandones/how-to-create-a-repository-on-github-and-clone-it-locally-using-vscode-91543517a455)
