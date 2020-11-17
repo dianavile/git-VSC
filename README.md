@@ -71,3 +71,8 @@ NOTE: When working with a team, you either
 
 ## Resource
 -[Create repository on Github](https://medium.com/@Zeroesandones/how-to-create-a-repository-on-github-and-clone-it-locally-using-vscode-91543517a455)
+-[Commits& Push](https://medium.com/@Zeroesandones/how-to-commit-and-push-your-changes-to-your-github-repository-in-vscode-77a7a3d7dd02)
+-[Pull request](https://scotch.io/tutorials/creating-your-first-pull-request-in-github)
+
+
+
