@@ -1,5 +1,10 @@
 # Create a GitHub repository, clone it locally using VScode
 
+## 0 — Create a new folder in Folder Project on local computer
+- 1 Open GitBash o CDM (version control) 
+- 2 Navigate to C://users/Projects ```cd projects```, ```cd projectname```
+- 3 In projects create a new folder with the projectname ```cd projectname```
+
 ## 1 — How to create a repository on GitHub
 
 - 1 login to GitHub
